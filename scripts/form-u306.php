@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'drwhite@ootwcs.com',
-		'to' => 'drwhite@ootwcs.com'
+		'from' => 'greg@complianceafrica.co.za',
+		'to' => 'greg@complianceafrica.co.za'
 	),
 	'recaptcha2' => array(
 		'private_key' => '6LfDlkwUAAAAAPbbswEO6spjittFUzekbloI09mX'
