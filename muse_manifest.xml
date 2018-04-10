@@ -1,9 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="complianceafrica.co.za" resolutions="1x" timestamp="1523246862868">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="complianceafrica.co.za" resolutions="1x" timestamp="1523336928529">
   <folder name="css">
-    <file name="site_global.css" crc="277234990"/>
-    <file name="master_a-master.css" crc="4113704376" ref="index"/>
-    <file name="index.css" crc="451274778" ref="index"/>
-    <file name="iefonts_index.css" crc="4252899842" ref="index"/>
+    <file name="site_global.css" crc="249430937"/>
+    <file name="master_a-master.css" crc="3835664552" ref="index"/>
+    <file name="index.css" crc="156661162" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,15 +13,22 @@
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="form_check.php" crc="3820983874" ref="index"/>
     <file name="form_process.php" crc="3776570906" ref="index"/>
-    <file name="form-u306.php" crc="391138809" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="form-u1247.php" crc="435721874" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="compliance-africa-favicon.ico" crc="4069158272" ref="index"/>
-    <file name="logo alpha.png" crc="3852417746" ref="index">
+    <file name="favicon.ico" crc="4069158272" ref="index"/>
+    <file name="170706113257-south-africa.jpg" crc="3970687550" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ca.png" crc="3813411027" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ca-u418-fr.png" crc="315929010" ref="index"/>
   </folder>
-  <file name="index.html" crc="4256303059" seo="true" mt="1523246663167" redirect="true"/>
+  <file name="index.html" crc="4091040023" seo="true" mt="1523336890975" redirect="true"/>
 </manifest>

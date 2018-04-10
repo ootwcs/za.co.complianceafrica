@@ -34,7 +34,7 @@ $form = array(
 		'private_key' => '6LfDlkwUAAAAAPbbswEO6spjittFUzekbloI09mX'
 	),
 	'fields' => array(
-		'custom_U314' => array(
+		'custom_U1264' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
@@ -53,7 +53,7 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U308' => array(
+		'custom_U1255' => array(
 			'order' => 3,
 			'type' => 'string',
 			'label' => 'Message',
