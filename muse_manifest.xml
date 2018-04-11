@@ -1,24 +1,32 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="complianceafrica.co.za" resolutions="1x" timestamp="1523336928529">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="complianceafrica.co.za" resolutions="1x" timestamp="1523459185027">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="94555597" ref="phone>index"/>
+      <file name="index.css" crc="419941513" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3824064793" seo="true" mt="1523459127018" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="249430937"/>
     <file name="master_a-master.css" crc="3835664552" ref="index"/>
-    <file name="index.css" crc="156661162" ref="index"/>
+    <file name="index.css" crc="3782269080" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="form_check.php" crc="3820983874" ref="index"/>
-    <file name="form_process.php" crc="3776570906" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="340535759" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="310584261" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:phone>index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>index"/>
+    <file name="form_check.php" crc="3820983874" ref="phone>index"/>
+    <file name="form_process.php" crc="3776570906" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index"/>
+    <file name="require.js" crc="7928878" ref="index:phone>index"/>
     <file name="form-u1247.php" crc="435721874" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:phone>index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index"/>
+    <file name="form-u1730.php" crc="4055092390" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4069158272" ref="index"/>
@@ -29,6 +37,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="ca-u418-fr.png" crc="315929010" ref="index"/>
+    <file name="170706113257-south-africa-u1643-fr.jpg" crc="4136960474" ref="phone>index"/>
+    <file name="ca-u1692-fr.png" crc="127416471" ref="phone>index"/>
+    <file name="logo alpha 1000x1000.png" crc="3782094323" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4091040023" seo="true" mt="1523336890975" redirect="true"/>
+  <file name="index.html" crc="3823586941" seo="true" mt="1523459127016" redirect="true"/>
 </manifest>
